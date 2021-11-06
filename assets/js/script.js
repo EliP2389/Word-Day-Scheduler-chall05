@@ -51,14 +51,14 @@ function loadDescription() {
 
 function handleSave(e) {
 
-     var hour = $(e.target).closest(".time-block").attr('id');
-     
-     var value = $(e.target).siblings(".description").val();
+    var hour = $(e.target).closest(".time-block").attr('id');
+
+    var value = $(e.target).siblings(".description").val();
 
 
 
     localStorage.setItem(hour, value);
-} 
+}
 
 
 

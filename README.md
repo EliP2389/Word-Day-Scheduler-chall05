@@ -11,4 +11,13 @@ CSS
 
 ## Preview Of Page
 
-<img src=">
+<img src="./assets/images/workday-img.png">
+
+## Sites Used For Reference
+
+https://momentjs.com/ <br>
+https://api.jquery.com/ <br>
+https://www.w3schools.com <br>
+https://developer.mozilla.org/en-US/
+
+# Website
