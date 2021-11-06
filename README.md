@@ -10,14 +10,13 @@ HTML
 CSS
 
 ## Preview Of Page
-
 <img src="./assets/images/workday-img.png">
 
 ## Sites Used For Reference
-
 https://momentjs.com/ <br>
 https://api.jquery.com/ <br>
 https://www.w3schools.com <br>
 https://developer.mozilla.org/en-US/
 
 # Website
+https://elip2389.github.io/Work-Day-Scheduler-chall05/
